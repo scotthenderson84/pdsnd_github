@@ -5,7 +5,7 @@
 Udacity Github Project Readme file
 
 ### Description
-Describe what your project is about and what it does
+Readme file containing sample edits and commits to test skills learned through udacity material
 
 ### Files used
 Include the files used
