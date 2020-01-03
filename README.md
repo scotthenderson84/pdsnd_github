@@ -11,5 +11,5 @@ Readme file containing sample edits and commits to test skills learned through u
 Multiple files are involved, based on bikeshare data
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Udacity Course Material, GitHub Help files
 
